@@ -11,20 +11,7 @@ Useful for tracking progress, reviewing solutions, and sharing with others.
 
 
 
-🗂️ Folder Structure:-
-LeetCode/
-├── 0001-two-sum/
-│   ├── 0001-two-sum.py
-│   └── README.md
-├── 0002-add-two-numbers/
-│   ├── 0002-add-two-numbers.py
-│   └── README.md
-└── ...
-Each problem has its own folder, named as <Problem Number>-<Problem Title>.
 
-Solution files are named after the problem and include the code.
-
-Each folder may include a README with problem details and explanations.
 
 
 🚀 How to Use:-
@@ -34,8 +21,19 @@ Each solution is self-contained and includes comments for clarity.
 
 Use these solutions for learning, reference, or interview preparation.
 
+
+
+
+
+
+
 📈 My LeetCode Stats:-
 https://leetcode.com/u/umesh_sama755485
+
+
+
+
+
 
 
 🤝 Contributions
@@ -50,6 +48,13 @@ git checkout -b feature-new-solution
 Commit your changes.
 
 Open a pull request describing your update.
+
+
+
+
+
+
+
 
 -----How to link your leetcode. to GitHub-------
 
