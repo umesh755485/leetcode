@@ -1,7 +1,7 @@
 LeetCode Solutions
 This repository automatically syncs my accepted LeetCode solutions with GitHub.
 
-📚 About
+📚 About:-
 Contains solutions to various LeetCode problems, organized by problem number and title.
 
 Solutions are synced automatically using LeetHub or a similar tool.
@@ -36,7 +36,7 @@ https://leetcode.com/u/umesh_sama755485
 
 
 
-🤝 Contributions
+🤝 Contributions:-
 Contributions are welcome!
 If you spot an improvement or want to add a new solution:
 
