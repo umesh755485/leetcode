@@ -48,6 +48,8 @@ git checkout -b feature-new-solution
 Commit your changes.
 
 Open a pull request describing your update.
+|  |
+| ------- |
 
 
 
