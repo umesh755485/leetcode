@@ -9,6 +9,7 @@ Contains solutions to various LeetCode problems, organized by problem number and
 Solutions are synced automatically using LeetHub or a similar tool.
 
 Useful for tracking progress, reviewing solutions, and sharing with others.
+|
 
 
 
@@ -24,6 +25,7 @@ Browse the folders to find solutions to specific problems.
 Each solution is self-contained and includes comments for clarity.
 
 Use these solutions for learning, reference, or interview preparation.
+|
 
 
 
@@ -47,6 +49,7 @@ https://leetcode.com/u/umesh_sama755485
 | ------- |
 Contributions are welcome!
 If you spot an improvement or want to add a new solution:
+|
 
 Fork the repository.
 
@@ -58,6 +61,7 @@ git checkout -b feature-new-solution
 Commit your changes.
 
 Open a pull request describing your update.
+|
 
 
 
@@ -78,12 +82,11 @@ Authorize access to your GitHub account through the extension.
 Select or create a repository for your LeetCode solutions.
 
 Start solving problems; your solutions will be automatically committed to GitHub
+|  
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/umesh755485/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 ## String
 |  |
