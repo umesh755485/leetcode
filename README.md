@@ -65,3 +65,19 @@ Authorize access to your GitHub account through the extension.
 Select or create a repository for your LeetCode solutions.
 
 Start solving problems; your solutions will be automatically committed to GitHub
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/umesh755485/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+## String
+|  |
+| ------- |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/umesh755485/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/umesh755485/leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
+<!---LeetCode Topics End-->
