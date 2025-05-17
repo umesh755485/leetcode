@@ -102,4 +102,16 @@ Start solving problems; your solutions will be automatically committed to GitHub
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/umesh755485/leetcode/tree/master/0975-range-sum-of-bst) |
+## Array
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/umesh755485/leetcode/tree/master/0075-sort-colors) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/umesh755485/leetcode/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/umesh755485/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
