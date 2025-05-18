@@ -114,4 +114,8 @@ Start solving problems; your solutions will be automatically committed to GitHub
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/umesh755485/leetcode/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/umesh755485/leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 <!---LeetCode Topics End-->
