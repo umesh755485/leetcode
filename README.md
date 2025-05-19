@@ -97,6 +97,7 @@ Start solving problems; your solutions will be automatically committed to GitHub
 ## Binary Search Tree
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/umesh755485/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0975-range-sum-of-bst](https://github.com/umesh755485/leetcode/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -106,12 +107,14 @@ Start solving problems; your solutions will be automatically committed to GitHub
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/umesh755485/leetcode/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/umesh755485/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [3321-type-of-triangle](https://github.com/umesh755485/leetcode/tree/master/3321-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/umesh755485/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/umesh755485/leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/umesh755485/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
