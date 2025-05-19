@@ -123,4 +123,8 @@ Start solving problems; your solutions will be automatically committed to GitHub
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/umesh755485/leetcode/tree/master/0125-valid-palindrome) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/umesh755485/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
