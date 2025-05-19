@@ -106,6 +106,7 @@ Start solving problems; your solutions will be automatically committed to GitHub
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/umesh755485/leetcode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/umesh755485/leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umesh755485/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0898-transpose-matrix](https://github.com/umesh755485/leetcode/tree/master/0898-transpose-matrix) |
@@ -134,6 +135,7 @@ Start solving problems; your solutions will be automatically committed to GitHub
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/umesh755485/leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/umesh755485/leetcode/tree/master/0048-rotate-image) |
 | [3321-type-of-triangle](https://github.com/umesh755485/leetcode/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
@@ -150,6 +152,7 @@ Start solving problems; your solutions will be automatically committed to GitHub
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/umesh755485/leetcode/tree/master/0048-rotate-image) |
 | [0898-transpose-matrix](https://github.com/umesh755485/leetcode/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
