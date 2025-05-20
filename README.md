@@ -107,6 +107,7 @@ Start solving problems; your solutions will be automatically committed to GitHub
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/umesh755485/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/umesh755485/leetcode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/umesh755485/leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/umesh755485/leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umesh755485/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -158,11 +159,13 @@ Start solving problems; your solutions will be automatically committed to GitHub
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/umesh755485/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/umesh755485/leetcode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/umesh755485/leetcode/tree/master/0064-minimum-path-sum) |
 | [0898-transpose-matrix](https://github.com/umesh755485/leetcode/tree/master/0898-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/umesh755485/leetcode/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/umesh755485/leetcode/tree/master/0898-transpose-matrix) |
 ## Prefix Sum
 |  |
