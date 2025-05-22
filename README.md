@@ -115,6 +115,7 @@ Start solving problems; your solutions will be automatically committed to GitHub
 | [0898-transpose-matrix](https://github.com/umesh755485/leetcode/tree/master/0898-transpose-matrix) |
 | [3321-type-of-triangle](https://github.com/umesh755485/leetcode/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/umesh755485/leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/umesh755485/leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/umesh755485/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
 |  |
@@ -127,6 +128,7 @@ Start solving problems; your solutions will be automatically committed to GitHub
 | ------- |
 | [0075-sort-colors](https://github.com/umesh755485/leetcode/tree/master/0075-sort-colors) |
 | [3321-type-of-triangle](https://github.com/umesh755485/leetcode/tree/master/3321-type-of-triangle) |
+| [3647-zero-array-transformation-iii](https://github.com/umesh755485/leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -153,6 +155,7 @@ Start solving problems; your solutions will be automatically committed to GitHub
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/umesh755485/leetcode/tree/master/0409-longest-palindrome) |
+| [3647-zero-array-transformation-iii](https://github.com/umesh755485/leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Database
 |  |
 | ------- |
@@ -174,4 +177,9 @@ Start solving problems; your solutions will be automatically committed to GitHub
 |  |
 | ------- |
 | [3639-zero-array-transformation-i](https://github.com/umesh755485/leetcode/tree/master/3639-zero-array-transformation-i) |
+| [3647-zero-array-transformation-iii](https://github.com/umesh755485/leetcode/tree/master/3647-zero-array-transformation-iii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3647-zero-array-transformation-iii](https://github.com/umesh755485/leetcode/tree/master/3647-zero-array-transformation-iii) |
 <!---LeetCode Topics End-->
