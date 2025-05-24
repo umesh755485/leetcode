@@ -114,6 +114,7 @@ Start solving problems; your solutions will be automatically committed to GitHub
 | [0075-sort-colors](https://github.com/umesh755485/leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umesh755485/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0898-transpose-matrix](https://github.com/umesh755485/leetcode/tree/master/0898-transpose-matrix) |
+| [3194-find-words-containing-character](https://github.com/umesh755485/leetcode/tree/master/3194-find-words-containing-character) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/umesh755485/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/umesh755485/leetcode/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/umesh755485/leetcode/tree/master/3639-zero-array-transformation-i) |
@@ -143,6 +144,7 @@ Start solving problems; your solutions will be automatically committed to GitHub
 | ------- |
 | [0125-valid-palindrome](https://github.com/umesh755485/leetcode/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/umesh755485/leetcode/tree/master/0409-longest-palindrome) |
+| [3194-find-words-containing-character](https://github.com/umesh755485/leetcode/tree/master/3194-find-words-containing-character) |
 ## Math
 |  |
 | ------- |
