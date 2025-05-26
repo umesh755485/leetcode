@@ -138,6 +138,7 @@ Start solving problems; your solutions will be automatically committed to GitHub
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/umesh755485/leetcode/tree/master/0064-minimum-path-sum) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/umesh755485/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/umesh755485/leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/umesh755485/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## String
@@ -159,6 +160,7 @@ Start solving problems; your solutions will be automatically committed to GitHub
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/umesh755485/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0409-longest-palindrome](https://github.com/umesh755485/leetcode/tree/master/0409-longest-palindrome) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/umesh755485/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/umesh755485/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Greedy
 |  |
@@ -200,5 +202,18 @@ Start solving problems; your solutions will be automatically committed to GitHub
 ## Counting
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/umesh755485/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/umesh755485/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+## Graph
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/umesh755485/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/umesh755485/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/umesh755485/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
