@@ -92,11 +92,13 @@ Start solving problems; your solutions will be automatically committed to GitHub
 | [0975-range-sum-of-bst](https://github.com/umesh755485/leetcode/tree/master/0975-range-sum-of-bst) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/umesh755485/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/umesh755485/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/umesh755485/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/umesh755485/leetcode/tree/master/0975-range-sum-of-bst) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/umesh755485/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/umesh755485/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -223,4 +225,5 @@ Start solving problems; your solutions will be automatically committed to GitHub
 |  |
 | ------- |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/umesh755485/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+| [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/umesh755485/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 <!---LeetCode Topics End-->
