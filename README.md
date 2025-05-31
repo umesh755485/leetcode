@@ -97,6 +97,7 @@ Start solving problems; your solutions will be automatically committed to GitHub
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/umesh755485/leetcode/tree/master/0975-range-sum-of-bst) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/umesh755485/leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/umesh755485/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/umesh755485/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Search Tree
@@ -213,6 +214,7 @@ Start solving problems; your solutions will be automatically committed to GitHub
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/umesh755485/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/umesh755485/leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 ## Topological Sort
 |  |
 | ------- |
