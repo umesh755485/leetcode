@@ -119,6 +119,7 @@ Start solving problems; your solutions will be automatically committed to GitHub
 | [0075-sort-colors](https://github.com/umesh755485/leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umesh755485/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0898-transpose-matrix](https://github.com/umesh755485/leetcode/tree/master/0898-transpose-matrix) |
+| [0945-snakes-and-ladders](https://github.com/umesh755485/leetcode/tree/master/0945-snakes-and-ladders) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/umesh755485/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3194-find-words-containing-character](https://github.com/umesh755485/leetcode/tree/master/3194-find-words-containing-character) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/umesh755485/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -187,6 +188,7 @@ Start solving problems; your solutions will be automatically committed to GitHub
 | [0064-minimum-path-sum](https://github.com/umesh755485/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/umesh755485/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0898-transpose-matrix](https://github.com/umesh755485/leetcode/tree/master/0898-transpose-matrix) |
+| [0945-snakes-and-ladders](https://github.com/umesh755485/leetcode/tree/master/0945-snakes-and-ladders) |
 ## Simulation
 |  |
 | ------- |
@@ -226,6 +228,7 @@ Start solving problems; your solutions will be automatically committed to GitHub
 ## Breadth-First Search
 |  |
 | ------- |
+| [0945-snakes-and-ladders](https://github.com/umesh755485/leetcode/tree/master/0945-snakes-and-ladders) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/umesh755485/leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/umesh755485/leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 <!---LeetCode Topics End-->
