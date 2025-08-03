@@ -113,6 +113,7 @@ Start solving problems; your solutions will be automatically committed to GitHub
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/umesh755485/leetcode/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/umesh755485/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/umesh755485/leetcode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/umesh755485/leetcode/tree/master/0064-minimum-path-sum) |
@@ -131,12 +132,14 @@ Start solving problems; your solutions will be automatically committed to GitHub
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/umesh755485/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/umesh755485/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/umesh755485/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umesh755485/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/umesh755485/leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/umesh755485/leetcode/tree/master/0075-sort-colors) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/umesh755485/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/umesh755485/leetcode/tree/master/3321-type-of-triangle) |
