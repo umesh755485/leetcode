@@ -185,6 +185,7 @@ Start solving problems; your solutions will be automatically committed to GitHub
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/umesh755485/leetcode/tree/master/0175-combine-two-tables) |
 | [1153-product-sales-analysis-i](https://github.com/umesh755485/leetcode/tree/master/1153-product-sales-analysis-i) |
 ## Matrix
 |  |
