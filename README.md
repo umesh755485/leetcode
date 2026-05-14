@@ -104,6 +104,7 @@ Start solving problems; your solutions will be automatically committed to GitHub
 ## Binary Search Tree
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/umesh755485/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umesh755485/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0975-range-sum-of-bst](https://github.com/umesh755485/leetcode/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
@@ -120,6 +121,7 @@ Start solving problems; your solutions will be automatically committed to GitHub
 | [0064-minimum-path-sum](https://github.com/umesh755485/leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/umesh755485/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/umesh755485/leetcode/tree/master/0075-sort-colors) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/umesh755485/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umesh755485/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0898-transpose-matrix](https://github.com/umesh755485/leetcode/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/umesh755485/leetcode/tree/master/0945-snakes-and-ladders) |
