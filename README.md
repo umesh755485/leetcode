@@ -126,6 +126,7 @@ Start solving problems; your solutions will be automatically committed to GitHub
 | [0898-transpose-matrix](https://github.com/umesh755485/leetcode/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/umesh755485/leetcode/tree/master/0945-snakes-and-ladders) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/umesh755485/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/umesh755485/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3194-find-words-containing-character](https://github.com/umesh755485/leetcode/tree/master/3194-find-words-containing-character) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/umesh755485/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/umesh755485/leetcode/tree/master/3321-type-of-triangle) |
@@ -177,6 +178,7 @@ Start solving problems; your solutions will be automatically committed to GitHub
 | [0409-longest-palindrome](https://github.com/umesh755485/leetcode/tree/master/0409-longest-palindrome) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/umesh755485/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/umesh755485/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/umesh755485/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Greedy
 |  |
 | ------- |
@@ -221,6 +223,7 @@ Start solving problems; your solutions will be automatically committed to GitHub
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/umesh755485/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/umesh755485/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/umesh755485/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Graph
 |  |
 | ------- |
