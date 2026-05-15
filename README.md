@@ -123,6 +123,7 @@ Start solving problems; your solutions will be automatically committed to GitHub
 | [0075-sort-colors](https://github.com/umesh755485/leetcode/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/umesh755485/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umesh755485/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/umesh755485/leetcode/tree/master/0189-rotate-array) |
 | [0898-transpose-matrix](https://github.com/umesh755485/leetcode/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/umesh755485/leetcode/tree/master/0945-snakes-and-ladders) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/umesh755485/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -141,6 +142,7 @@ Start solving problems; your solutions will be automatically committed to GitHub
 | [0075-sort-colors](https://github.com/umesh755485/leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/umesh755485/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umesh755485/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/umesh755485/leetcode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -168,6 +170,7 @@ Start solving problems; your solutions will be automatically committed to GitHub
 | ------- |
 | [0009-palindrome-number](https://github.com/umesh755485/leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/umesh755485/leetcode/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/umesh755485/leetcode/tree/master/0189-rotate-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/umesh755485/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3321-type-of-triangle](https://github.com/umesh755485/leetcode/tree/master/3321-type-of-triangle) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/umesh755485/leetcode/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
