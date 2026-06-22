@@ -164,6 +164,7 @@ Start solving problems; your solutions will be automatically committed to GitHub
 | ------- |
 | [0125-valid-palindrome](https://github.com/umesh755485/leetcode/tree/master/0125-valid-palindrome) |
 | [0409-longest-palindrome](https://github.com/umesh755485/leetcode/tree/master/0409-longest-palindrome) |
+| [1189-maximum-number-of-balloons](https://github.com/umesh755485/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/umesh755485/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3194-find-words-containing-character](https://github.com/umesh755485/leetcode/tree/master/3194-find-words-containing-character) |
 ## Math
@@ -181,6 +182,7 @@ Start solving problems; your solutions will be automatically committed to GitHub
 | [0001-two-sum](https://github.com/umesh755485/leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/umesh755485/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0409-longest-palindrome](https://github.com/umesh755485/leetcode/tree/master/0409-longest-palindrome) |
+| [1189-maximum-number-of-balloons](https://github.com/umesh755485/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/umesh755485/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/umesh755485/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/umesh755485/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -226,6 +228,7 @@ Start solving problems; your solutions will be automatically committed to GitHub
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/umesh755485/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/umesh755485/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/umesh755485/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/umesh755485/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
