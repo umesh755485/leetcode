@@ -114,6 +114,7 @@ Start solving problems; your solutions will be automatically committed to GitHub
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/umesh755485/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/umesh755485/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/umesh755485/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/umesh755485/leetcode/tree/master/0048-rotate-image) |
@@ -177,6 +178,7 @@ Start solving problems; your solutions will be automatically committed to GitHub
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/umesh755485/leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/umesh755485/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0409-longest-palindrome](https://github.com/umesh755485/leetcode/tree/master/0409-longest-palindrome) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/umesh755485/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
