@@ -125,6 +125,7 @@ Start solving problems; your solutions will be automatically committed to GitHub
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/umesh755485/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/umesh755485/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/umesh755485/leetcode/tree/master/0189-rotate-array) |
+| [0485-max-consecutive-ones](https://github.com/umesh755485/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0898-transpose-matrix](https://github.com/umesh755485/leetcode/tree/master/0898-transpose-matrix) |
 | [0945-snakes-and-ladders](https://github.com/umesh755485/leetcode/tree/master/0945-snakes-and-ladders) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/umesh755485/leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
